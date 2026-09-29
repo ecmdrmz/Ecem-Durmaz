@@ -1,2 +1,2 @@
 # Ecem-Durmaz
-I am aa freshman at Bilkent University
+I am a freshman at Bilkent University
